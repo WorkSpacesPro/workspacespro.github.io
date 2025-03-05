@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://yipianye.github.io/", // replace this with your deployed domain
+  website: "https://hellopages.github.io/yipianye/", // replace this with your deployed domain
   author: "Sat Naing",
   desc: "您的网站描述。对于搜索引擎优化和社交媒体共享很有用.",
   title: "一花一世界，一叶一菩提",
