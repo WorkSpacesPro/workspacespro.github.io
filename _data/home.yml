@@ -1,19 +1,19 @@
 icons:
-  - title: Google Scholar
-    id: google-scholar
-    url: https://scholar.google.com/
-  - title: ORCID
-    id: orcid
-    url: https://orcid.org/
-  - title: Scopus
-    id: scopus
-    url: https://www.scopus.com/
-  - title: Web of Science
-    id: clarivate
-    url: https://www.webofscience.com/
+#  - title: Google Scholar
+#    id: google-scholar
+#    url: https://scholar.google.com/
+#  - title: ORCID
+#    id: orcid
+#    url: https://orcid.org/
+#  - title: Scopus
+#    id: scopus
+#    url: https://www.scopus.com/
+#  - title: Web of Science
+#    id: clarivate
+#    url: https://www.webofscience.com/
   - title: GitHub
     id: github
     url: https://github.com/
-  - title: Lichess
-    id: lichess
-    url: https://lichess.org/
+#  - title: Lichess
+#    id: lichess
+#    url: https://lichess.org/
