@@ -7,6 +7,6 @@ title: About
 # Hello!
 
 {: .fs-5 .mb-3 }
-I am a computational social scientist interested in problems of organization, strategy, and decision-making. I am currently iazzai) at the University of Edinburgh.
+This is my idle domain name. I made a welcome page with no content!
 {: .fs-5 .mb-4 }
-You can reach me at [micheleai@ed.ac.uk](mailto:miczzai@ed.ac.uk).
+You can reach me at [Hello#DomainName.Plus](mailto:Hello@DomainName.Plus).
