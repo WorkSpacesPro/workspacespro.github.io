@@ -8,6 +8,7 @@ title: About
 
 {: .fs-5 .mb-3 }
 Hello and welcome! This domain is currently under my care, awaiting its future purpose.
+
 {: .fs-5 .mb-4 }
 Welcome!
 This is a placeholder page for [Org.OoO]. Exciting things are coming soon!
