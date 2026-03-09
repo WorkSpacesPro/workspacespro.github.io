@@ -7,6 +7,8 @@ title: About
 # Hello!
 
 {: .fs-5 .mb-3 }
-This is my idle domain name. I made a welcome page with no content!
+Hello and welcome! This domain is currently under my care, awaiting its future purpose.
 {: .fs-5 .mb-4 }
-You can reach me at [Hello#DomainName.Plus](mailto:Hello@DomainName.Plus).
+Welcome!
+This is a placeholder page for [Org.OoO]. Exciting things are coming soon!
+Feel free to contact me at Hello#DomainName.Plus. [Hello#DomainName.Plus](mailto:Hello@DomainName.Plus).
