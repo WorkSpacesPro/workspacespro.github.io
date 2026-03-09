@@ -12,4 +12,4 @@ Hello and welcome! This domain is currently under my care, awaiting its future p
 {: .fs-5 .mb-4 }
 Welcome!
 This is a placeholder page for [Org.OoO]. Exciting things are coming soon!
-Feel free to contact me at Hello#DomainName.Plus. [Hello#DomainName.Plus](mailto:Hello@DomainName.Plus).
+Feel free to contact me at . [Hello#DomainName.Plus](mailto:Hello@DomainName.Plus).
